@@ -1,0 +1,175 @@
+{
+	"places": null,
+	"c_date": "2019-01-08 10:03:28",
+	"language": "es",
+	"sentiment": 0,
+	"mention": 
+	[
+		"902698723419009024"
+	],
+
+	"country": null,
+	"tweet": 
+	{
+		"quote_count": 0,
+		"contributors": null,
+		"truncated": false,
+		"text": "@got7ista NO SOS NINGUNA MOLESTIAAAA, para nadie y uno ya puede disfrutar con vos porque sos fant\u00e1stico",
+		"is_quote_status": false,
+		"in_reply_to_status_id": 1082471796044169221,
+		"reply_count": 0,
+		"id": 1082472830565081088,
+		"favorite_count": 0,
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"retweeted": false,
+		"coordinates": null,
+		"timestamp_ms": "1546916608836",
+		"entities": 
+		{
+			"user_mentions": 
+			[
+				{
+					"indices": 
+					[
+						0,
+						9
+					],
+
+					"screen_name": "got7ista",
+					"id": 902698723419009024,
+					"name": "nikito",
+					"id_str": "902698723419009024"
+				}
+			],
+
+			"symbols": 
+			[
+				
+			],
+
+			"hashtags": 
+			[
+				
+			],
+
+			"urls": 
+			[
+				
+			]
+		},
+
+		"in_reply_to_screen_name": "got7ista",
+		"in_reply_to_user_id": 902698723419009024,
+		"display_text_range": 
+		[
+			10,
+			103
+		],
+
+		"retweet_count": 0,
+		"id_str": "1082472830565081088",
+		"favorited": false,
+		"user": 
+		{
+			"follow_request_sent": null,
+			"profile_use_background_image": false,
+			"id": 956691082187821056,
+			"verified": false,
+			"translator_type": "none",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081564631301308417/O8IiapVO_normal.jpg",
+			"profile_sidebar_fill_color": "000000",
+			"is_translator": false,
+			"geo_enabled": false,
+			"profile_text_color": "000000",
+			"followers_count": 689,
+			"protected": false,
+			"location": "con @got7ista",
+			"default_profile_image": false,
+			"id_str": "956691082187821056",
+			"utc_offset": null,
+			"statuses_count": 12830,
+			"description": "[\ud83c\udf38] \u2014\u00a0i \u03c9i\u2113\u2113 \u03b1\u2113\u03c9\u03b1ys \u0432\u0454 \u043d\u0454r\u0454 \u0192\u03c3r y\u03c3\u03c5 \u5f61 \u263e  *\u2022:. \u00a0#\uac13\uc138\ube10 \u2661 \u21ab\u00b7 #\ubc29\ud0c4\uc18c\ub144\ub2e8 \u02ce\u02ca\u02d7 \u00a0\u00a0",
+			"friends_count": 761,
+			"profile_link_color": "FFB2D6",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081564631301308417/O8IiapVO_normal.jpg",
+			"notifications": null,
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_color": "000000",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/956691082187821056/1546700076",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"screen_name": "madeitae",
+			"lang": "es",
+			"profile_background_tile": false,
+			"favourites_count": 11645,
+			"name": "ro,,",
+			"url": "http://curiouscat.me/mrclboyjcksn",
+			"created_at": "Fri Jan 26 00:51:43 +0000 2018",
+			"contributors_enabled": false,
+			"time_zone": null,
+			"profile_sidebar_border_color": "000000",
+			"default_profile": false,
+			"following": null,
+			"listed_count": 11
+		},
+
+		"geo": null,
+		"in_reply_to_user_id_str": "902698723419009024",
+		"lang": "es",
+		"created_at": "Tue Jan 08 03:03:28 +0000 2019",
+		"filter_level": "low",
+		"in_reply_to_status_id_str": "1082471796044169221",
+		"place": null
+	},
+
+	"hashtags": null,
+	"emotions": "neutral",
+	"source": "Twitter for Android",
+	"location_detected": null,
+	"place": null,
+	"rt_status_id": null,
+	"keywords": null,
+	"coordinate": null,
+	"rt_user_id": null,
+	"user": 
+	{
+		"follow_request_sent": null,
+		"profile_use_background_image": false,
+		"id": 956691082187821056,
+		"verified": false,
+		"translator_type": "none",
+		"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081564631301308417/O8IiapVO_normal.jpg",
+		"profile_sidebar_fill_color": "000000",
+		"is_translator": false,
+		"geo_enabled": false,
+		"profile_text_color": "000000",
+		"followers_count": 689,
+		"protected": false,
+		"location": "con @got7ista",
+		"default_profile_image": false,
+		"id_str": "956691082187821056",
+		"utc_offset": null,
+		"statuses_count": 12830,
+		"description": "[\ud83c\udf38] \u2014\u00a0i \u03c9i\u2113\u2113 \u03b1\u2113\u03c9\u03b1ys \u0432\u0454 \u043d\u0454r\u0454 \u0192\u03c3r y\u03c3\u03c5 \u5f61 \u263e  *\u2022:. \u00a0#\uac13\uc138\ube10 \u2661 \u21ab\u00b7 #\ubc29\ud0c4\uc18c\ub144\ub2e8 \u02ce\u02ca\u02d7 \u00a0\u00a0",
+		"friends_count": 761,
+		"profile_link_color": "FFB2D6",
+		"profile_image_url": "http://pbs.twimg.com/profile_images/1081564631301308417/O8IiapVO_normal.jpg",
+		"notifications": null,
+		"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_color": "000000",
+		"profile_banner_url": "https://pbs.twimg.com/profile_banners/956691082187821056/1546700076",
+		"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+		"screen_name": "madeitae",
+		"lang": "es",
+		"profile_background_tile": false,
+		"favourites_count": 11645,
+		"name": "ro,,",
+		"url": "http://curiouscat.me/mrclboyjcksn",
+		"created_at": "Fri Jan 26 00:51:43 +0000 2018",
+		"contributors_enabled": false,
+		"time_zone": null,
+		"profile_sidebar_border_color": "000000",
+		"default_profile": false,
+		"following": null,
+		"listed_count": 11
+	}
+}
