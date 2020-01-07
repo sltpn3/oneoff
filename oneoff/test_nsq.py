@@ -4,6 +4,7 @@ import json
 import base64
 import requests
 from pprint import pprint
+import json
 
 class Producer:
     def __init__(self, host, port, topic):
@@ -76,7 +77,12 @@ def handler4(message):
 def handler5(message):
     tweet = json.loads(dict(urlparse.parse_qsl(message.body))["message"])
 #     pprint(tweet)
-    print tweet['text']
+    try:
+        text = tweet['tweet']['extended_tweet']['full_text']
+        print 'Extended', tweet['tweet']['id'], text
+    except Exception, e:
+        text = tweet['tweet']['text']
+        print 'Text', tweet['tweet']['id'], text
 #     b64 = dict(urlparse.parse_qsl(message.body))['message']
 #     print b64
     return True
@@ -96,8 +102,8 @@ def handler5(message):
 #            max_in_flight=15)
 
 nsqd_tcp_addresses = "192.168.150.15:4150"
-nsq.Reader(message_handler=handler5, topic='twitter-streaming',
-           channel='imm_channel', lookupd_poll_interval=15,
+nsq.Reader(message_handler=handler5, topic='twitter-insert-streaming',
+           channel='test', lookupd_poll_interval=15,
            nsqd_tcp_addresses=[nsqd_tcp_addresses],
            lookupd_request_timeout=60,
            max_in_flight=15)

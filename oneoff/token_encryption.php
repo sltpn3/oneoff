@@ -46,7 +46,9 @@ function decrypt($ciphertext) {
 // $ivSize = mcrypt_get_iv_size($CIPHER, $MODE);
 // $iv = mcrypt_create_iv($ivSize, MCRYPT_RAND);
 // echo $iv;
-$ciphertext = encrypt('devel|inipassworddevel');
+$ciphertext = encrypt('qckemenpppa|rahasia123');
+// $ciphertext = encrypt('devel|rahasiad3v3l');
 echo $ciphertext."\n";
-echo decrypt($ciphertext);
+echo decrypt($ciphertext)."\n";
+// echo decrypt("ICD3AGPkMBciG3YIBJzcAt4HCnKrPAMwJJntHRCmGX2vH8JPRWCXyz4DJpgs0pC61/o1Yng5bmdJQlRHc3BHRnRR")."\n";
 ?>

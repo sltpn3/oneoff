@@ -93,9 +93,9 @@ def handler4(message):
 #            lookupd_request_timeout=60,
 #            max_in_flight=15)
 
-nsqd_tcp_addresses = "192.168.150.156:4150"
-nsq.Reader(message_handler=handler4, topic='twitter_pilpres1_insert',
-           channel='solr', lookupd_poll_interval=15,
+nsqd_tcp_addresses = "192.168.150.15:4150"
+nsq.Reader(message_handler=handler4, topic='twitter-streaming',
+           channel='ipa-channel', lookupd_poll_interval=15,
            nsqd_tcp_addresses=[nsqd_tcp_addresses],
            lookupd_request_timeout=60,
            max_in_flight=15)
